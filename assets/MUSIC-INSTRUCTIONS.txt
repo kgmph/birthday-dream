@@ -1,0 +1,1 @@
+Add a song you own or are licensed to publish here, named birthday-music.mp3. The PLAY MUSIC button works when that file is present.
